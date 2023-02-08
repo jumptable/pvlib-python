@@ -116,7 +116,7 @@ PVSystem and Arrays
 
 The PVSystem class can represent a PV system with a single array of modules,
 or with multiple arrays. For a PV system with a single array, the parameters
-that describe the array can be provided directly to the PVSystem instand.
+that describe the array can be provided directly to the PVSystem instance.
 For example, the parameters that describe the array's modules can be
 passed to `PVSystem.module_parameters`:
 
